@@ -1,5 +1,9 @@
 # HashIdentable
 
+This is our Learning Fork of hash_identable.  
+Please follow and fork the original source at :  
+[https://github.com/octaviuslabs/hash_identable](https://github.com/octaviuslabs/hash_identable).
+
 Why expose your public ID's if you don't need to? Hang hash_identable on your rails models and use the #uuid method to get a unique id of any item.
 
 ## Credits
